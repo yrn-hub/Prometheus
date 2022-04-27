@@ -1,2 +1,2 @@
 # Prometheus
-Prometheus监控告警系统
+Prometheus监控告警系统相关镜像组件以及Yaml清单
